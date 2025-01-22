@@ -1,0 +1,53 @@
+[
+    {
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction"
+    },
+    {
+      "bookName": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian"
+    },
+    {
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance"
+    },
+    {
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction"
+    },
+    {
+      "bookName": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure"
+    },
+    {
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction"
+    },
+    {
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy"
+    },
+    {
+      "bookName": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical"
+    },
+    {
+      "bookName": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic"
+    },
+    {
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Philosophical"
+    }
+  ]
+  
